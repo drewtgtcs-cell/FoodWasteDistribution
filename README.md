@@ -295,3 +295,4 @@ MAINTENANCE_MODE=false
 - CEOSUS
 - Ritik Barnwal
 - Prashant Raj
+- Ayush Sonar
